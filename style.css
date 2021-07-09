@@ -1,0 +1,35 @@
+table,td{
+    border: 2px solid rgb(38, 48, 87);
+    text-align: center;
+    color: rgb(219, 231, 236);
+    background-color: rgb(70, 74, 122);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+th{
+    border: 2px solid rgb(33, 46, 97);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 62, 116);
+    padding: 5px;
+}
+button{
+    text-align: center;
+    color: floralwhite;
+    background-color: rgb(11, 11, 61);
+    width: 120px;
+    height: 30px;
+}
+h1{
+    text-align: center;
+    color: rgb(38, 47, 119);
+    padding-top: 30px;
+}
+#btn{
+    text-align: center;
+}
+#grocery{
+    background-image: linear-gradient(rgb(207, 241, 210), rgb(156, 166, 184));
+    height:500px;
+}

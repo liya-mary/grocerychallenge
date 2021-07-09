@@ -1,0 +1,84 @@
+{
+    "grocery":[
+        {
+            "SI_No":"1",
+            "Item":"Apples",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Fruits",
+            "notes":"Fresh"
+        },
+        {
+            "SI_No":"2",
+            "Item":"Bread",
+            "Quantity":"1",
+            "Unit":"pkt",
+            "Department":"Snacks",
+            "notes":"Good one within expiry date"
+        },
+        {
+            "SI_No":"3",
+            "Item":"Carrots",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "SI_No":"4",
+            "Item":"milk",
+            "Quantity":"1",
+            "Unit":"pkt",
+            "Department":"Milk products",
+            "notes":"Fresh"
+        },
+        {
+            "SI_No":"5",
+            "Item":"Rice",
+            "Quantity":"3",
+            "Unit":"kg",
+            "Department":"Rice",
+            "notes":"Basmati rice"
+        },
+        {
+            "SI_No":"6",
+            "Item":"Chips",
+            "Quantity":"1",
+            "Unit":"pkt",
+            "Department":"snacks",
+            "notes":"Good ones"
+        },
+        {
+            "SI_No":"7",
+            "Item":"Curd",
+            "Quantity":"3",
+            "Unit":"pkt",
+            "Department":"Milk products",
+            "notes":"Fresh"
+        },
+        {
+            "SI_No":"8",
+            "Item":"Cashewnuts",
+            "Quantity":"1",
+            "Unit":"pkt",
+            "Department":"Snacks",
+            "notes":"Salted cashew"
+        },
+        {
+            "SI_No":"9",
+            "Item":"Pumpkin",
+            "Quantity":"1",
+            "Unit":"pc",
+            "Department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "SI_No":"10",
+            "Item":"Oil",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Oil",
+            "notes":"Sunflower oil"
+        }
+    ]
+}
