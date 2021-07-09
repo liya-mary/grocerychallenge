@@ -29,10 +29,7 @@ h1{
 #btn{
     text-align: center;
 }
-#grocery{
-    
-    background-image: linear-gradient(rgb(207, 241, 210), rgb(156, 166, 184));
-    height:500px;
-    width: 100%;
+#grocery{  
+    padding-bottom: 20px;
     text-align: center;
 }

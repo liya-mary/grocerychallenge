@@ -29,7 +29,7 @@ function grocerylist(){
 
             }
             table+="</table>";
-
+            
             document.getElementById("grocery").innerHTML=table;
         }
     }
