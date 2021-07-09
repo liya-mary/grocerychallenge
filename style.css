@@ -30,7 +30,9 @@ h1{
     text-align: center;
 }
 #grocery{
-    object-fit: cover;
+    
     background-image: linear-gradient(rgb(207, 241, 210), rgb(156, 166, 184));
     height:500px;
+    width: 100%;
+    text-align: center;
 }
